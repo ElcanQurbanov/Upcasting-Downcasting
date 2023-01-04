@@ -1,0 +1,15 @@
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\bin\Debug\net6.0\Casting Practices.exe
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\bin\Debug\net6.0\Casting Practices.deps.json
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\bin\Debug\net6.0\Casting Practices.runtimeconfig.json
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\bin\Debug\net6.0\Casting Practices.dll
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\bin\Debug\net6.0\Casting Practices.pdb
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\obj\Debug\net6.0\Casting Practices.csproj.AssemblyReference.cache
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\obj\Debug\net6.0\Casting Practices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\obj\Debug\net6.0\Casting Practices.AssemblyInfoInputs.cache
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\obj\Debug\net6.0\Casting Practices.AssemblyInfo.cs
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\obj\Debug\net6.0\Casting Practices.csproj.CoreCompileInputs.cache
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\obj\Debug\net6.0\Casting Practices.dll
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\obj\Debug\net6.0\refint\Casting Practices.dll
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\obj\Debug\net6.0\Casting Practices.pdb
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\obj\Debug\net6.0\Casting Practices.genruntimeconfig.cache
+C:\Users\cavid\Desktop\C# codes\Casting Practices\Casting Practices\obj\Debug\net6.0\ref\Casting Practices.dll
